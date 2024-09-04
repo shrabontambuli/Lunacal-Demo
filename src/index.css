@@ -52,3 +52,19 @@
     flex-grow: 0;
     z-index: 0;
 }
+
+.centerP {
+    margin: 0;
+    position: absolute;
+    top: 60%;
+    left: 25px;
+    transform: translate(-50%, -50%);
+}
+
+.centerR {
+    margin: 0;
+    position: absolute;
+    top: 60%;
+    right: 0px;
+    transform: translate(-50%, -50%)
+}
