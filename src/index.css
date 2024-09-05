@@ -8,6 +8,14 @@
     border-radius: 27px;
 }
 
+.bg2 {
+    width: 149px;
+    height: 62px;
+    background: #171717;
+    box-shadow: inset 0px 4px 10px 2px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
 .bgL {
     width: 720px;
     height: 316px;
@@ -67,4 +75,20 @@
     top: 60%;
     right: 0px;
     transform: translate(-50%, -50%)
+}
+
+.btn-Content {
+    width: 45px;
+    height: 45px;
+    background: linear-gradient(139.14deg, #303439 12.4%, #161718 94.96%);
+    box-shadow: -5px -3px 30px -10px #96BEE7, 4px 5px 30px 5px #101213;
+}
+
+.btn-content2{
+width: 131.32px;
+height: 46px;
+background: rgba(255, 255, 255, 0.03);
+box-shadow: -0.5px -0.5px 6.9px rgba(255, 255, 255, 0.25), 9px 10px 7.1px rgba(0, 0, 0, 0.4), inset 0px 0px 48.9064px rgba(255, 255, 255, 0.05), inset 0px 3.26043px 3.26043px rgba(255, 255, 255, 0.15);
+backdrop-filter: blur(52.28px);
+border-radius: 104px;
 }
