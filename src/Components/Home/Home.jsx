@@ -7,11 +7,11 @@ const Home = () => {
         <div className='grid grid-cols-2 justify-items-center items-start'>
             <div className='bg w-[836px] h-[689px]'></div>
             <div>
-                <div className='bgL mx-auto'>
+                <div className='bgL mx-auto lg:w-full'>
                     <Left_first_Content/>
                 </div>
                 <div className='hr my-6 mx-auto'></div>
-                <div className='bgL mx-auto'>
+                <div className='bgL mx-auto lg:w-full'>
                     <Lefr_Second_Content/>
                 </div>
                 <div className='hr mt-6 mx-auto'></div>
